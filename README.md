@@ -4,7 +4,7 @@ In this repository you can find two versions of my CV
 
 * [Spanish Version]() in Markdown format
 
-* [English Version]() in LaTeX
+* [English Version](https://github.com/carlosjimenez88M/Resume/blob/master/CvEng2019.pdf) in LaTeX
 
 ## Vitae in Rmarkdown
 

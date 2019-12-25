@@ -12,6 +12,9 @@ In this repository you can find two versions of my CV
 
 
 **Vitae** is a poject and package of [mitchello harawild](https://github.com/mitchelloharawild) and this repository is some contribution about this.
+
+
+
 */ˈviːteɪ/*
 
 [![CRAN

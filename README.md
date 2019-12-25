@@ -10,6 +10,8 @@ In this repository you can find two versions of my CV
 
 # vitae <img src="https://i.imgur.com/PeFoXDy.png" align="right" />
 
+
+**Vitae** is a poject and package of [mitchello harawild](https://github.com/mitchelloharawild) and this repository is some contribution about this.
 */ˈviːteɪ/*
 
 [![CRAN
@@ -60,7 +62,15 @@ tinytex::install_tinytex()
 
 
 
+Please note that the ‘vitae’ project is released with a [Contributor
+Code of
+Conduct](https://github.com/mitchelloharawild/vitae/blob/master/.github/CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.
 
+The vitae project began as at [rOpenSci](https://ropensci.org/)’s
+[OzUnconf 2018](https://ozunconf18.ropensci.org/). A big thank you to
+rOpenSci and the event organisers for their work, which has played a big
+role in the formation of this package.
 
 
 [^1]:https://cran.r-project.org/web/packages/vitae/vignettes/vitae.html

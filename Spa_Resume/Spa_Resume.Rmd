@@ -1,0 +1,138 @@
+---
+name: Daniel Jiménez
+date: "`r format(Sys.time(), '%B, %Y')`"
+qualifications: B.S(Hons), BSc, Msc(c).
+position: Chief Data Scientist - Machine Learning Engineer
+address: Colombia - México
+phone: +56 3228169956
+email: danieljimenez88m@gmail.com
+www: danieljimenezm.com
+github:  carlosjimenez88M
+linkedin: djimenezm
+headcolor: 414141
+output: 
+  vitae::awesomecv:
+    keep_tex: true
+    
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tibble)
+library(tidyverse)
+library(RefManageR)
+```
+
+# Perfil
+
+Senior Data Scientist e Ingeniero Machine Learning con experiencia en startups y en instituciones públicas construyendo herramientas computacionales y congnitivas que brindan soluciones desde el análisis de datos , machine learning , estadística aplicada y BI. A la par cuento con experiencia docente en temas como : Economía, Análitica, Machine Learning y programación.
+
+
+# Áreas de interés
+
+ 
+Deep Learning, Web Scraping, Inteligenica Artificial,Estadística Aplicada, Simulación de Montecarlo,Análisis de componentes principales, Algebra Matricial, reinforcement learning, Análisis Bayesiano de Datos, Diseño de clusters, generalización aditiva de modelos y Visualización de datos.
+
+
+
+
+
+# Educación
+```{r education}
+tribble(
+  ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
+  "B.Sc (Hons) en Economía", "Universidad Santo Tomás", "Bogotá - Colombia", "Enero 2011 - Dic. 2014", "Historia Economíca de la Religión.",
+  "B.Sc(c) Matemáticas", "Universidad Konrad Lorenz", "Bogotá - Colombia", "Mar. 2017 - Currently", "Matricial Algebra Applications on Computational Vision.",
+  "Msc in Statistics", "Universidad Santo Tomás", "Bogotá - Colombia", "Mar. 2018 - Nov. 2020", "Boostrap Inference for geo-referencial inputs in Crime localization.",
+  "Msc in Applied Data Science", "Michigan State University", "East Lansing - USA", "Jun 2020 - Currenlty", "Empirical Bayes Model in Machine Learning"
+) %>% 
+  detailed_entries(degree, dates, uni, loc, details)
+```
+
+# Experencia Laboral
+
+```{r consulting}
+tribble(
+  ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  "Leader Data scientist", "Chiper", "Bogotá - Colombia", "Dic 2019 - Present", "Lider del equipo de Machine Learning y Análitica Avanada.",  "Leader Data scientist", "Chiper", "Bogotá - Colombia", "Dic 2019 - Present", "Diseño de modelos de Machine Learning aplicados al negocio.",
+    "Leader Data scientist", "Chiper", "Bogotá - Colombia", "Dic 2019 - Present", "Diseño de modelos análiticos y  de BI para describir y pronosticar la dinámica del mercado.",   "Leader Data scientist", "Chiper", "Bogotá - Colombia", "Dic 2019 - Present", "Investigaciones y aplicaciones de nuevas tecnologías que permitan eficiencia en el core del negocio.",
+  "Senior Data Scientist", "Merlin Jobs", "Bogotá- Colombia", "Agosto. 2019 - Dic 2019", "Desarrollo de algotimos para la detección de anomalías.","Senior Data Scientist", "Merlin Jobs", "Bogotá- Colombia", "Agosto. 2019 - Dic 2019", "Desarrollo de modelos de machine learning orientados a UX.","Senior Data Scientist", "Merlin Jobs", "Bogotá- Colombia", "Agosto. 2019 - Dic 2019", "Diseño de modelos análiticos par ala toma de decisiones.","Leader Data Scientist", "Resolve Studio", "Bogotá- Colombia", "Enero. 2019 - Agosto. 2019", "Desarrollo modelos de machine learning para atribuciones multicanal.","Leader Data Scientist", "Resolve Studio", "Bogotá- Colombia", "Enero. 2019 - Agosto. 2019", "Implementación de modelos econometrícos para el pronostico de la demanda.","Leader Data Scientist", "Resolve Studio", "Bogotá- Colombia", "Enero. 2019 - Agosto. 2019", "Diseño de Dashboards con Shiny para BI.", "Data Scientist contratista", "Big Bang Data", "Medellín- Colombia", "Agosto 2018 - Diciembre 2018", "Implementador de las estrategías comerciales para la venta de servicios en Data Science.", "Data Scientist", "Secretaría de Educación de Bogotá", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Diseño de modelos estadísticos para la evaluación de la educación escolar basado en la politica pública.", "Data Scientist", "Secretaría de Educación de Bogotá", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Generador de reportes sobre la calidad de la educación.", "Data Scientist", "Secretaría de Educación de Bogotá", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Evaluador y getor de politicas públicas con base a Ciencia de Datos.","Data Scientist", "Secretaría de Educación de Bogotá", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Evaluador y getor de politicas públicas con base a Ciencia de Datos.","Mathematical Developer", "Superintendencia de Transporte y Puertos", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Diseño de modelos matemáticos para pronosticar en que rutas de Colombia era más probables los accidentes .","Mathematical Developer", "Superintendencia de Transporte y Puertos", "Bogotá- Colombia", "Enero. 2017 - Agosto. 2018", "Aplicacion de modelos de Machine Learning para casos de Pentesting .","Estadístico", "Puedo ser Consulting Group", "Bogotá- Colombia", "Enero. 2016 - Diciembre 2017", "Diseño de encuentas para investigación de mercados .","Estadístico", "Puedo ser Consulting Group", "Bogotá- Colombia", "Enero. 2016 - Diciembre 2017", "Diseño de metodología muestral para implementación de planes de marketing .","Estadístico", "Invershop SAS", "Bogotá- Colombia", "Enero. 2014 - Marzo 2016", "Diseño del plan de análisis, estudios e investigación de mercados .","Estadístico", "Invershop SAS", "Bogotá- Colombia", "Enero. 2014 - Marzo 2016", "Desarrollo de modelos econométricos y de pricing para diferentes investigaciones .","Economista Jr", "ONU-PINTANA", "Santiago de Chile- Chile", "Diciembre. 2012 - Febrero 2014", "Desarrollo de modelos microeconómicos para la detección de criminales en la Pintana .","Economista Jr", "ONU-PINTANA", "Santiago de Chile- Chile", "Diciembre. 2012 - Febrero 2014", "Diseño y evaluación de politicas públicas para el emprendimiento en la comuna."
+) %>% 
+  detailed_entries(role, dates, company, loc, details)
+```
+
+# Experiencia Docente
+
+## Universidad
+
+\footnotesize{
+Durante los últimos años he sido docente en tres áreas principales: economía, matemáticas aplicadas y ciencia de datos, donde he sido calificado como uno de los mejores docentes tanto en la modalidad de pregrado, como en educación continua. A parte de estas tres grandes áreas también he sido docente - investigador de : Politicas Latinoamericanas, Historia Económica y biografía del poder.
+}
+
+```{r tutoring}
+tribble(
+  ~ role, ~ uni, ~ campus, ~ dates, ~ details,
+  "Profesor - Catedra", "Universidad Nacional de Colombia", "Bogotá- Colombia", "S2 2019 - Present", "Big Data",  "Profesor - Catedra", "Universidad Nacional de Colombia", "Bogotá- Colombia", "S2 2019 - Present","Data Science and Statistical Modelling","Profesor Principal", "Educación Futuro", "Bogotá - Colombia", "S1 2016 - Present", "Estadística Aplicada a soluciones empresariales","Profesor Principal", "Educación Futuro", "Bogotá - Colombia", "S1 2016 - Present", "Habilidades Empresariales",
+  "Profesor Asociado", "Universidad de Asturias", "Madrid-España", "S1 2014 - S2 2016", "Historia Económica Mundial",
+  "Profesor Asociado", "Universidad de Asturias", "Madrid-España", "S1 2014 - S2 2016", "Microeconomía I",
+  "Profesor Asociado", "Universidad de Asturias", "Madrid-España", "S1 2014 - S2 2016", "Economía Politica",
+  "Profesor Asociado", "Universidad de Asturias", "Madrid-España", "S1 2014 - S2 2016", "Desarrollo Económico",
+) %>% 
+  detailed_entries(role, dates, uni, campus, details)
+```
+
+
+
+# Presentaciones
+
+```{r talks}
+tribble(
+  ~ when, ~ title, ~ details, ~ where,
+  "2018", "", "Aplicaciones del diseño de clusters y churn.", "Bogotá - Colombia","2018", "", "Diseño de Dashboard conectados a Bigquery para generar reporting oportunos","Bogotá - Colombia",
+  "2018", "","Tidyverse forecasting in R", "Bogotá - Colombia",
+  "2017", "","Análisis de sentimientos en el caso de la politica Colombiana.", "Bogotá - Colombia",
+)%>% 
+  detailed_entries(when, title, details, where)
+```
+
+
+
+# Habilidades  
+
+**Comumicación:** Presentaciones (PowerBI,Keynote,PP,beamer,ioslides), Dashboards(Shiny, Data Studio,Qlik,Looker)., Documentación y reportes (LaTex, Markdown).
+
+**Programas:** R, Python, SQL, Octave, Stata
+
+**Software Development:** Github, Docker
+
+
+# Publicaciones
+
+
+* (2020), Jiménez M. D, "El arte del análisis gráfico en Ciencia de Datos" - En progreso.
+
+* (2018), Jiménez M. D, "R Markdown  y el diseño de reportes" - Uniempresarial.
+
+* (2018), Jiménez M. D, "Análisis Exploratorio de Datos" - Uniempresarial.
+
+* (2018), Jiménez M. D, "Regresiones Loess sobre series de tiempo económicas" - USTA.
+
+* (2014), Jiménez M. D, "El teatro del Valor" - USTA.
+
+* (2014), Jiménez M. D, "Relaciones sobre la geopolitica del poder y la historia de los redentores nacionales" - USTA.
+
+* (2012), Jiménez M. D, "Una aproximación sobre la globalización" - USTA.
+
+* (2011), Jiménez M. D, "Malaparte y la leyenda de los rebeldes" - USTA.
+ 
+# Proyectos Personales
+
+* [Un Data Scientist dice](www.danieljimenezm.com):  Blog sobre ciencia de datos y estadística aplicada.
+
+* [Conversaciones con el hombre malvavisco](https://anchor.fm/dashboard/episode/e9nh7m): Podcast sobre temas random con un foco científico.
+
+* Jekill : Banda de música experimental.
+
+* Ciclismo de montaña.

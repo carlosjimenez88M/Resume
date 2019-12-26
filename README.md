@@ -2,7 +2,7 @@
 
 In this repository you can find two versions of my CV 
 
-* [Spanish Version]() in Markdown format
+* [Spanish Version](https://github.com/carlosjimenez88M/Resume/blob/master/Spa_Resume.pdf) in Markdown format
 
 * [English Version](https://github.com/carlosjimenez88M/Resume/blob/master/CvEng2019.pdf) in LaTeX
 

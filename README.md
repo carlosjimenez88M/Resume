@@ -1,6 +1,6 @@
 # Daniel Jiménez Resume
 
-Hi! You can find my resume [here]()
+Hi! You can find my resume [here](https://github.com/carlosjimenez88M/Resume/blob/master/Daniel-Jimenez.pdf)
 
 ### Generate
 ```

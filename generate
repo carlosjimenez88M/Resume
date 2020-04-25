@@ -1,0 +1,5 @@
+#! /bin/bash
+
+xelatex resume.tex
+mv resume.pdf Daniel-Jimenez.pdf
+cp Daniel-Jimenez.pdf README.pdf

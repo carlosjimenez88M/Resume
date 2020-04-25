@@ -1,0 +1,10 @@
+version: "2"
+
+services:
+  latex:
+    build: .
+    volumes:
+      - ./:/code
+    working_dir: /code
+    command: bash generate
+

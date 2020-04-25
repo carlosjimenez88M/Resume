@@ -17,17 +17,3 @@ You can use full texlive distribution with this steps
 docker run --rm -it -v $(pwd):/source schickling/latex
 ```
 
-
-**Compiling a latex document**
-
-```
-$ xelatex resume.tex
-```
-
-
-** Generate changes in output names**
-
-```
-#! /bin/bash
-mv resume.pd othername.pdf
-```

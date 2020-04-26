@@ -9,7 +9,7 @@ docker-compose run latex
 
 ### LaTeX
 
-You can use full texlive distribution with this steps
+You can use full texlive distribution with this step
 
 **Download Docker Image**
 

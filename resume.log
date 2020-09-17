@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  17 SEP 2020 23:02
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  17 SEP 2020 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,7 +1181,6 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 30.
 ) (./resume/education.tex) (./resume/skills.tex
-[2]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 13.
 
@@ -1192,7 +1191,8 @@ l.16 ...ence:} \href{\https://www.tidymodels.org/}
                                                   {Tidymodels},\href{https:/...
 
 ? 
-) (./resume/projects.tex) (./resume/writing.tex) (./resume/extracurricular.tex
+) (./resume/projects.tex) (./resume/writing.tex [2])
+(./resume/extracurricular.tex
 Runaway argument?
 ! Paragraph ended before \cventry was complete.
 <to be read again> 
@@ -1200,16 +1200,16 @@ Runaway argument?
 l.32 
      
 ? 
-) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+) (./resume/honors.tex) [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 37234 strings out of 493068
- 748245 string characters out of 6137720
+ 37237 strings out of 493068
+ 748287 string characters out of 6137720
  890869 words of memory out of 5000000
  40664 multiletter control sequences out of 15000+600000
  6098 words of font info for 75 fonts, out of 8000000 for 9000

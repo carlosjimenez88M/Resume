@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  24 SEP 2020 15:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  7 DEC 2020 02:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,30 +1002,30 @@ LaTeX Info: Redefining \FA on input line 164.
 (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 77.
+(Font)              scaled to size 10.95pt on input line 30.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 77.
+LaTeX Info: Redefining \selectfont on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1063,40 +1063,40 @@ LaTeX Info: Redefining \selectfont on input line 77.
 
 \g__fontspec_family_latinmodern-math.otf_int=\count170
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 77.
+(Font)              `operators' in the math version `normal' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 77.
+ line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 77.
+(Font)              `operators' in the math version `bold' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 77.
+ut line 30.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 77.
+(Font)              `symbols' in the math version `normal' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 77.
+t line 30.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 77.
+(Font)              `symbols' in the math version `bold' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 77.
+ut line 30.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 7
-7.
+(Font)              `largesymbols' in the math version `normal' on input line 3
+0.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 77.
+t line 30.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 77.
+(Font)              `largesymbols' in the math version `bold' on input line 30.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 77.
+ut line 30.
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1106,40 +1106,39 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./resume.out) (./resume.out)
 \@outlinefile=\write6
 \openout6 = `resume.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 81.
+(Font)              scaled to size 10.95015pt on input line 33.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 81.
+(Font)              scaled to size 7.67863pt on input line 33.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 81.
+(Font)              scaled to size 5.45398pt on input line 33.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 81.
+(Font)              scaled to size 10.94983pt on input line 33.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 81.
+(Font)              scaled to size 7.6784pt on input line 33.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 81.
+(Font)              scaled to size 5.45381pt on input line 33.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 81.
+(Font)              scaled to size 7.6pt on input line 33.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 81.
+(Font)              scaled to size 7.6pt on input line 33.
 
-Overfull \hbox (1.46pt too wide) in paragraph at lines 81--82
-[]$[]$ $[]$$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
+Overfull \hbox (1.46pt too wide) in paragraph at lines 33--33
+[]$[]$ $[]$$[]$ 
  []
 
 (./resume/summary.tex
@@ -1201,19 +1200,19 @@ l.32
      
 ? 
 ) (./resume/honors.tex) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 107.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
  37237 strings out of 493068
  748287 string characters out of 6137720
- 890869 words of memory out of 5000000
+ 890795 words of memory out of 5000000
  40664 multiletter control sequences out of 15000+600000
  6098 words of font info for 75 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 72i,11n,89p,10382b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10382b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (3 pages).

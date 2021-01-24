@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  7 DEC 2020 02:21
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2019.4.15)  24 JAN 2021 04:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,10 +1114,6 @@ LaTeX Info: Redefining \nameref on input line 30.
 \@outlinefile=\write6
 \openout6 = `resume.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1176,9 +1172,9 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 ])
 (./resume/certifications.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
+(Font)              scaled to size 9.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
+(Font)              scaled to size 9.0pt on input line 31.
 ) (./resume/education.tex) (./resume/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 13.
@@ -1190,7 +1186,7 @@ l.16 ...ence:} \href{\https://www.tidymodels.org/}
                                                   {Tidymodels},\href{https:/...
 
 ? 
-) (./resume/projects.tex) (./resume/writing.tex [2])
+) (./resume/projects.tex [2]) (./resume/writing.tex)
 (./resume/extracurricular.tex
 Runaway argument?
 ! Paragraph ended before \cventry was complete.
@@ -1209,7 +1205,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
 Here is how much of TeX's memory you used:
  37237 strings out of 493068
  748287 string characters out of 6137720
- 890795 words of memory out of 5000000
+ 890806 words of memory out of 5000000
  40664 multiletter control sequences out of 15000+600000
  6098 words of font info for 75 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
